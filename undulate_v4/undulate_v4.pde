@@ -9,7 +9,9 @@
 // 1. give http://kow-luck.com a credit
 // 2. don't use it for commercial gain
 // 3. share anything you create with it in the same way I have
-
+//
+//If you want to use these works as free, or encourage me,
+//please contact me via http://kow-luck.com/contact
 
 //============================================ global vars
 import processing.opengl.*;
